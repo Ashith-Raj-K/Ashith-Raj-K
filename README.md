@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ashith-Raj-K
-- 👀 I’m interested in Web developement 
+- 👀 I’m interested in Software developement 
 - 🌱 I’m working in Safura IT Consultants
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
